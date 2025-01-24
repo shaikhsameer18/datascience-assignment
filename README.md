@@ -16,9 +16,9 @@ This project involves exploratory data analysis, building a lookalike model, and
    - Open Jupyter Notebook or JupyterLab
    - Navigate to the `notebooks/` directory
    - Run the notebooks in the following order:
-     1. `EDA.ipynb`
-     2. `Lookalike.ipynb`
-     3. `Clustering.ipynb`
+     1. `Sameer_Ahmed_EDA.ipynb`
+     2. `Sameer_Ahmed_Lookalike.ipynb`
+     3. `Sameer_Ahmed_Clustering.ipynb`
 
 
 ## Results
